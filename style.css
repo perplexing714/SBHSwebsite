@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
 	font-size: 1px;
 	text-align: center;
@@ -11,3 +12,10 @@
 .mag{
 		margin-left: 20px;
 }
+=======
+.img 
+{
+ margin-right: auto; 
+ margin-left: auto;
+}
+>>>>>>> fe0b79874abad8105201feb7a355ab1989ea2d79
