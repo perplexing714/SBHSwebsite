@@ -1,1 +1,13 @@
-
+.header {
+	font-size: 1px;
+	text-align: center;
+    background-color: lightgrey;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.navv{
+	font-size:30px;
+}
+.mag{
+		margin-left: 20px;
+}
