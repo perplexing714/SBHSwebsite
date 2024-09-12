@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 .header {
 	font-size: 1px;
 	text-align: center;
     background-color: lightgrey;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
+	margin-top
 }
 .navv{
 	font-size:30px;
@@ -12,10 +12,18 @@
 .mag{
 		margin-left: 20px;
 }
-=======
 .img 
 {
  margin-right: auto; 
  margin-left: auto;
 }
->>>>>>> fe0b79874abad8105201feb7a355ab1989ea2d79
+.lucy-credit{
+	font-size:300px;
+	color:brown;
+}
+.anti-dot{
+	list-style-type:none
+}
+.bgFont{
+	font-size:20px;
+}
