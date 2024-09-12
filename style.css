@@ -26,3 +26,10 @@ height: 100%;
 .bgFont{
 	font-size:20px;
 }
+
+.test{
+height: 50vw;
+width: 100%;
+
+object-fit: cover;
+}
