@@ -30,6 +30,9 @@ height: 100%;
 .test{
 height: 45vw;
 width: 100%;
-
 object-fit: cover;
+}
+
+body{
+margin-left: 20px;	
 }
