@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b93fdf1b462175e6958efadd462d6690eefb8e4
 .header {
 	font-size: 1px;
 	text-align: center;
@@ -27,6 +30,7 @@ height: 100%;
 .bgFont{
 	font-size:20px;
 }
+<<<<<<< HEAD
 .f30{
 	font-size:30px;
 }
@@ -36,3 +40,16 @@ height: 100%;
 	color: yellow;
 }
 
+=======
+
+.test{
+margin-top: 1vw;
+height: 35vw;
+width: 100%;
+margin: auto;
+}
+
+.para{
+margin-left: 20px
+}
+>>>>>>> 6b93fdf1b462175e6958efadd462d6690eefb8e4
