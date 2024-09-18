@@ -1,1 +1,73 @@
+$(document).ready(function(){
+  $("bio").toggle(function(){
+    $(".bioPanel").slideDown("slow");
+  });
+  $("calcAB").toggle(function(){
+    $(".calcABPanel").slideDown("slow");
+  });
+    $("calcBC").toggle(function(){
+    $(".calcBCPanel").slideDown("slow");
+  });
+    $("chem").toggle(function(){
+    $(".chemPanel").slideDown("slow");
+  });
+    $("comp").toggle(function(){
+    $(".compPanel").slideDown("slow");
+  });
+    $("englang").toggle(function(){
+    $(".englangPanel").slideDown("slow");
+  });
+    $("englit").toggle(function(){
+    $(".englitPanel").slideDown("slow");
+  });
+    $("enviro").toggle(function(){
+    $(".enviroPanel").slideDown("slow");
+  });
+    $("humangeo").toggle(function(){
+    $(".humangeoPanel").slideDown("slow");
+  });
+    $("macro").toggle(function(){
+    $(".macroPanel").slideDown("slow");
+  });
+    $("precalc").toggle(function(){
+    $(".precalcPanel").slideDown("slow");
+  });
+    $("phys1").toggle(function(){
+    $(".phys1Panel").slideDown("slow");
+  });
+    $("phys2").toggle(function(){
+    $(".phys2Panel").slideDown("slow");
+  });
+    $("seminar").toggle(function(){
+    $(".seminarPanel").slideDown("slow");
+  });
+    $("spanishlang").toggle(function(){
+    $(".spanishlangPanel").slideDown("slow");
+  });
+    $("spanishlit").toggle(function(){
+    $(".spanishlitPanel").slideDown("slow");
+  });
+    $("stat").toggle(function(){
+    $(".statPanel").slideDown("slow");
+  });
+    $("2d").toggle(function(){
+    $(".2dPanel").slideDown("slow");
+  });
+    $("drawing").toggle(function(){
+    $(".drawingPanel").slideDown("slow");
+  });
+    $("usgov").toggle(function(){
+    $(".usgovPanel").slideDown("slow");
+  });
+    $("ushist").toggle(function(){
+    $(".ushistPanel").slideDown("slow");
+  });
+    $("world").toggle(function(){
+    $(".worldPanel").slideDown("slow");
+  });
+  
 
+
+
+  
+});
