@@ -1,68 +1,68 @@
 $(document).ready(function(){
-  $("bio").toggle(function(){
+  $("bio").click(function(){
     $(".bioPanel").slideDown("slow");
   });
-  $("calcAB").toggle(function(){
+  $("calcAB").click(function(){
     $(".calcABPanel").slideDown("slow");
   });
-    $("calcBC").toggle(function(){
+    $("calcBC").click(function(){
     $(".calcBCPanel").slideDown("slow");
   });
-    $("chem").toggle(function(){
+    $("chem").click(function(){
     $(".chemPanel").slideDown("slow");
   });
-    $("comp").toggle(function(){
+    $("comp").click(function(){
     $(".compPanel").slideDown("slow");
   });
-    $("englang").toggle(function(){
+    $("englang").click(function(){
     $(".englangPanel").slideDown("slow");
   });
-    $("englit").toggle(function(){
+    $("englit").click(function(){
     $(".englitPanel").slideDown("slow");
   });
-    $("enviro").toggle(function(){
+    $("enviro").click(function(){
     $(".enviroPanel").slideDown("slow");
   });
-    $("humangeo").toggle(function(){
+    $("humangeo").click(function(){
     $(".humangeoPanel").slideDown("slow");
   });
-    $("macro").toggle(function(){
+    $("macro").click(function(){
     $(".macroPanel").slideDown("slow");
   });
-    $("precalc").toggle(function(){
+    $("precalc").click(function(){
     $(".precalcPanel").slideDown("slow");
   });
-    $("phys1").toggle(function(){
+    $("phys1").click(function(){
     $(".phys1Panel").slideDown("slow");
   });
-    $("phys2").toggle(function(){
+    $("phys2").click(function(){
     $(".phys2Panel").slideDown("slow");
   });
-    $("seminar").toggle(function(){
+    $("seminar").click(function(){
     $(".seminarPanel").slideDown("slow");
   });
-    $("spanishlang").toggle(function(){
+    $("spanishlang").click(function(){
     $(".spanishlangPanel").slideDown("slow");
   });
-    $("spanishlit").toggle(function(){
+    $("spanishlit").click(function(){
     $(".spanishlitPanel").slideDown("slow");
   });
-    $("stat").toggle(function(){
+    $("stat").click(function(){
     $(".statPanel").slideDown("slow");
   });
-    $("2d").toggle(function(){
+    $("2d").click(function(){
     $(".2dPanel").slideDown("slow");
   });
-    $("drawing").toggle(function(){
+    $("drawing").click(function(){
     $(".drawingPanel").slideDown("slow");
   });
-    $("usgov").toggle(function(){
+    $("usgov").click(function(){
     $(".usgovPanel").slideDown("slow");
   });
-    $("ushist").toggle(function(){
+    $("ushist").click(function(){
     $(".ushistPanel").slideDown("slow");
   });
-    $("world").toggle(function(){
+    $("world").click(function(){
     $(".worldPanel").slideDown("slow");
   });
   
