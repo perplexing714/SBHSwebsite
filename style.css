@@ -53,3 +53,8 @@ margin: auto;
 #bioPanel, #calcABPanel, #calcBCPanel, #chemPanel, #compPanel, #englangPanel, #englitPanel, #enviroPanel, #humangeoPanel, #macroPanel, #precalcPanel, #phys1Panel, #phys2Panel, #seminarPanel, #spanishlangPanel, #spanishlitPanel, #statPanel, #2dPanel, #drawingPanel, #usgovPanel, #ushistPanel, #worldPanel {
 padding: 20px;
 }
+
+body{
+color: #ffffb8;
+	
+}
