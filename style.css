@@ -1,19 +1,16 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 6b93fdf1b462175e6958efadd462d6690eefb8e4
 .header {
 	font-size: 1px;
 	text-align: center;
     background-color: lightgrey;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
 }
-.navv{
-	font-size:30px;
+.navv {
+font-size:30px;
+background-color:red;
+
 }
 .mag{
-		margin-left: 20px;
+		margin-left: 40px;
 }
 .img 
 {
@@ -30,7 +27,6 @@ height: 100%;
 .bgFont{
 	font-size:20px;
 }
-<<<<<<< HEAD
 .f30{
 	font-size:30px;
 }
@@ -39,17 +35,8 @@ height: 100%;
 	font-size:25px;
 	color: yellow;
 }
-
-=======
-
-.test{
-margin-top: 1vw;
-height: 35vw;
-width: 100%;
-margin: auto;
+a:hover {
+background-color:orange;
+opacity: 0.5;
 }
 
-.para{
-margin-left: 20px
-}
->>>>>>> 6b93fdf1b462175e6958efadd462d6690eefb8e4
