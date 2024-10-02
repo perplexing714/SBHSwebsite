@@ -50,7 +50,7 @@ margin: auto;
 }
 
 
-#bioPanel, #calcABPanel, #calcBCPanel, #chemPanel, #compPanel, #englangPanel, #englitPanel, #enviroPanel, #humangeoPanel, #macroPanel, #precalcPanel, #phys1Panel, #phys2Panel, #seminarPanel, #spanishlangPanel, #spanishlitPanel, #statPanel, #2dPanel, #drawingPanel, #usgovPanel, #ushistPanel, #worldPanel {
+#bioPanel{
 padding: 20px;
 }
 
