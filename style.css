@@ -50,7 +50,7 @@ margin: auto;
 }
 
 
-#bioPanel{
+.panel{
 display: none;
 padding: 20px;
 }
